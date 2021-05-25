@@ -1,1 +1,13 @@
 /* Inserta tu codigo aqui */
+
+
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    outline:  1px solid pink;
+}
+
+.all{
+    background-color: white;
+    margin: 0 auto;
+}
