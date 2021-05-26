@@ -1,6 +1,5 @@
 /* Inserta tu codigo aqui */
 
-
 *{
     margin: 0 auto;
     padding: 0 auto;
@@ -10,4 +9,40 @@
 .all{
     background-color: white;
     margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.img-small{
+    width: 100px;
+    height: auto;
+}
+
+.img-ico-media{
+    width: 35px;
+}
+
+.back-menu{
+    background-image: url('../img/fondo.jpg');
+}
+
+.nav-item a{
+    color: grey;
+    font-weight: 700;
+    
+}
+
+.block-grey{
+    width: auto;
+    height: 200px;
+}
+
+.img-porta{
+    background-image: url('../img/semilla.jpg');
+    height: 500px;
+
+}
+
+.infogen{
+    height: 150px;
 }
