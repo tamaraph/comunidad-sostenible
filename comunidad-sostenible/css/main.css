@@ -3,18 +3,22 @@
 *{
     margin: 0 auto;
     padding: 0 auto;
-    outline:  1px solid pink;
+/*     outline:  1px solid pink; */
 }
 
 .all{
     background-color: white;
     margin: 0 auto;
-    font-family: 'Times New Roman', Times, serif;
-
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .img-small{
     width: 100px;
+    height: auto;
+}
+
+.img-equip{
+    width: 220px;
     height: auto;
 }
 
@@ -29,7 +33,6 @@
 .nav-item a{
     color: grey;
     font-weight: 700;
-    
 }
 
 .block-grey{
@@ -39,10 +42,52 @@
 
 .img-porta{
     background-image: url('../img/semilla.jpg');
-    height: 500px;
-
+    height: 700px;
+    margin: -200px 0px 0px 0px;
 }
 
 .infogen{
     height: 150px;
+}
+
+.all p{
+    line-height: 1;
+}
+
+.textwte {
+    color: white;
+}
+
+.active{
+    height: 320px;
+}
+
+.bg-act{
+    background-image: url(../img/fondo2.jpg);
+}
+
+.bg-act h3{
+    margin-bottom: 0;
+}
+
+.img-ico{
+    height: 120px;
+}
+
+.box-falsed{
+    height: 200px;
+    margin: 20px 20px 20px 20px;
+}
+
+.box-falsed2{
+    height: 50px;
+    margin: 20px 20px 20px 20px;
+}
+
+.img-left {
+	--bs-gutter-x: 0;
+}
+
+.bg-white{
+    background-color: white;
 }
